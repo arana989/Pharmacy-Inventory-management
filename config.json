@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://www.facebook.com/musareib.shaikh",
+    "tw_url":"https://twitter.com/musareib?t=AYiwUnRf0rubZZ4Ct742pA&s=09",
+    "gh_url":"https://github.com/shrutipatekar1202",
+    "blog_name": "WELCOME",
+    "headname": "PHARMACY SUPPLY MANAGEMENT",
+    "user": "test",
+    "password": "test",
+    "login_image": "aple.jpg"
+
+  }
+}
