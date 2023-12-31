@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/pharmacy",
+    "proud_uri": "mysql://root:@localhost/pharmacy",
+    "fb_url":"facebook",
+    "tw_url":"TWEETER",
+    "gh_url":"GiTHUB",
+    "blog_name": "WELCOME",
+    "headname": "PHARMACY MANAGEMENT SYSTEM ",
+    "user": "ARVIND",
+    "password": "ARVIND",
+    "login_image": "aple.jpg"
+
+  }
+}
